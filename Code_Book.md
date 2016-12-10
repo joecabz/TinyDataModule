@@ -3,6 +3,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 ##Identifiers
 1. subject - The ID of the test subject
 2. activity - The type of activity performed when the corresponding measurements were taken
+
 ##Measurements
   1. tBodyAccMeanX
   2. tBodyAccMeanY
